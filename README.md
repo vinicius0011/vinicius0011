@@ -1,19 +1,25 @@
 <img src = "img.gif" width = "325px" align = "right">
 
-# BEM VINDO!
-Sou acâdemico do curso "Ciência da Computação", entusiasta por tecnologia.
+## BEM VINDO!
+Sou acâdemico do curso "Ciência da Computação", entusiasta por tecnologia. 
 
+## HOBBIES
+> Esportes (Caminhar, Bicicleta)
+
+> Asistir Filmes e Séries
+
+> Jogos de Tabuleiro
 ---
 
-# TECNOLOGIAS
+## TECNOLOGIAS
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; 
-          
-</div>
 
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=339af0)
+![Javascript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+ 
 ---
 
 
